@@ -57,7 +57,8 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Ritish, a Freelance Web Developer Specializing in Website, IOS, Android  and Cross-Platform.
+            Hi! I&apos;m from CoderDecoder Solutions, specializing in website, iOS, Android, and cross-platform development. How can I assist you today?
+            {/* Hi! I&apos;m Ritish, a Freelance Web Developer Specializing in Website, IOS, Android  and Cross-Platform. */}
           </p>
 
           <a href="#about">

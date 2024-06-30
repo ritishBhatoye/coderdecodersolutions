@@ -72,70 +72,64 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "Chop Shop Barber Web Booking Application",
+    des: "Built a responsive barber booking site with React.js and Sanity Studio for seamless frontend-backend integration. Incorporated Framer Motion for animations and integrated Telegram alerts for real-time notifications.",
+    img: "/pr1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://barber-chop-shop.vercel.app",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Food Delivery - React Native",
+    des: "• Engineered a dynamic, user-centric food delivery application using RESTful APIs, Redux for state management, and Git for version control. Led the project to ensure cross-device compatibility and delivered a functional prototype.",
+    img: "/pr2.jpg",
+    iconLists: ["/react.jpeg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "#",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "Food Web Application",
+    des: "Foodies is a dynamic food web application allowing users to order favorite dishes online, book tables, and explore menus, enhancing their dining experience.",
+    img: "/pr3.png",
+    iconLists: ["/next.svg", "/tail.svg", "/react.jpeg", "/c.svg"],
+    link: "https://thefoodies.vercel.app/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    title: "Hill Quest",
+    des: " Introduced key features to connect business owners with customers for advertisement hoarding needs.",
+    img: "/pr4.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/boot.jpeg"],
     link: "/ui.apple.com",
   },
 ];
-
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
+      "Collaborating with CoderDecoder Solutions on the Chop Shop Barber Web Booking Application was an absolute pleasure. Their professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Their enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, CoderDecoder Solutions is the ideal partner.",
+    name: "Rajveer Singh",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with CoderDecoder Solutions on the Food Delivery React Native project was an incredible experience. His expertise in mobile app development and his commitment to quality ensured that our project was a success. SR's ability to understand our needs and translate them into a seamless user experience was remarkable. Highly recommend his services.",
+    name: "Neha Sharma",
+    title: "Product Manager at Foodies Inc.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "CoderDecoder Solutions' work on the Food Web Application was top-notch. His attention to detail and innovative approach brought our vision to life in ways we couldn't have imagined. The final product exceeded our expectations, and the feedback from our users has been overwhelmingly positive. SR is a true professional and a pleasure to work with.",
+    name: "Rohan Patel",
+    title: "CEO of Gourmet Delights",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "The Hill Quest project was complex, but SR from CoderDecoder Solutions handled it with ease. His technical skills and creative solutions were instrumental in overcoming the challenges we faced. SR's dedication and passion for his work are evident in every aspect of the project. We couldn't have asked for a better partner to bring Hill Quest to fruition.",
+    name: "Simran Kaur",
+    title: "Project Lead at Adventure Seekers",
   },
 ];
+
 
 export const companies = [
   {
