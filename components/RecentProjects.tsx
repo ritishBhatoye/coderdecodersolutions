@@ -21,7 +21,7 @@ const RecentProjects = () => {
           >
             <Link href={item.link} target="_blank" rel="noopener noreferrer">
               <PinContainer
-                title="/ui.aceternity.com"
+                title={item.title}
                 href={item.link}
               >
                 <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
