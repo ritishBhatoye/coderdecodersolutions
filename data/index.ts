@@ -49,13 +49,11 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a Flutter AI & ML Streaming App",
-    description: "The Inside Scoop",
-    className: "md:col-span-3 md:row-span-2",
-    imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
-    titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/b5.svg",
-    spareImg: "/grid.svg",
+    title: "Australian Based Builder Booking Website",
+    des: "Developed a custom booking website for an Australian builder, featuring an intuitive interface for scheduling consultations and project estimates. Implemented a responsive design and integrated with a backend calendar system.",
+    img: "/pr5.png",
+    iconLists: ["/react.jpeg", "/node.svg", "/mongodb.svg", "/express.svg", "/aws.svg"],
+    link: "https://garden-kew-homes.vercel.app/ndis",
   },
   {
     id: 6,
@@ -100,9 +98,34 @@ export const projects = [
     des: " Introduced key features to connect business owners with customers for advertisement hoarding needs.",
     img: "/pr4.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/boot.jpeg"],
-    link: "/ui.apple.com",
+    link: "https://hillquest.iqdigit.com/webhome",
+  },
+  {
+    id: 5,
+    title: "Australian Based Builder Booking Website",
+    des: "Developed a custom booking website for an Australian builder, featuring an intuitive interface for scheduling consultations and project estimates. Implemented a responsive design and integrated with a backend calendar system.",
+    img: "/pr5.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/boot.jpeg"],
+    link: "https://garden-kew-homes.vercel.app",
+  },
+  {
+    id: 6,
+    title: "Weddding Planner Booking Website",
+    des: "Developed a weddding planner booking website for an Australian builder, featuring an intuitive interface for scheduling consultations and project estimates. Implemented a responsive design and integrated with a backend calendar system.",
+    img: "/pr6.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/boot.jpeg"],
+    link: "https://www.deepcateringandevents.com/",
+  },
+  {
+    id: 7,
+    title: "Ad Hoarding Booking Mobile Application",
+    des: "Designed and developed an immersive VR educational platform for interactive learning experiences. Incorporated 3D modeling, spatial audio, and gesture recognition to create engaging virtual classrooms and simulations.",
+    img: "/pr7.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/boot.jpeg"],
+    link: "#",
   },
 ];
+
 export const testimonials = [
   {
     quote:
